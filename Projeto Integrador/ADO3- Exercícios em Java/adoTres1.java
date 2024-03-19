@@ -1,7 +1,5 @@
-
-package aula3;
 import java.util.Scanner;
-public class teste {
+public class adoTres1{
     public static void main(String[]args){
         
         
@@ -20,7 +18,7 @@ public class teste {
            float valorcomdesconto = valorCompra - desconto;
            System.out.println("O valor descontado foi de " + valorcomdesconto + "\nE o valor descontado foi de: " + desconto);
         }
-
+         scanner.close();
 
 
            }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class anobi {
+public class adoTres3 {
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
                 int ano;

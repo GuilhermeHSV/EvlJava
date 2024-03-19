@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class piramide {
+public class adoTres2 {
     public static void main (String [] args){
         Scanner scanner = new Scanner (System.in);
         int a, b, c;

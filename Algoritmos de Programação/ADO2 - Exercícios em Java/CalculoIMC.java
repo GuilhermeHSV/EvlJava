@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class msotrarMaior {
+public class CalculoIMC {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.println("Digite o seu peso");
@@ -40,6 +40,6 @@ public class msotrarMaior {
         } else
             System.out.println("Obesidade Mórbida");
   }
-
+        input.close();
 }
 }
