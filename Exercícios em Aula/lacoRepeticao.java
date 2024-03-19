@@ -26,14 +26,17 @@ public class lacoRepeticao {
                 for(int i = inicio; i<=fim; i++){
                 System.out.println("i: " + i);
                 }    
-            }else{
+            }else if (inicio > fim){
                 for(int i = inicio; i>=fim; i--){
                 System.out.println("i: " + i);
+                }
+            }else{
+                System.out.println("Os valores são iguais!");
             }
             scanner.close();
         }
     }
-}
+
  
 
     
