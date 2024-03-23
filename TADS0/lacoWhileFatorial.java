@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lacoWhiteFatorial {
+public class lacoWhileFatorial {
   public static void main(String[] args){
         Scanner scanner = new Scanner (System.in);
 
