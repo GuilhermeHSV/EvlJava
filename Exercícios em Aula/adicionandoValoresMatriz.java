@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class testeMatriz {
+public class adicionandoValoresMatriz {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Quantos valores deseja adicionar");
