@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculoIMC",
+            "request": "launch",
+            "mainClass": "CalculoIMC",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "calculadora",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "calculoMediaArray",
+            "request": "launch",
+            "mainClass": "calculoMediaArray",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "lacoRepeticao",
+            "request": "launch",
+            "mainClass": "lacoRepeticao",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "lacoRepeticaoWhile",
+            "request": "launch",
+            "mainClass": "lacoRepeticaoWhile",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "lacoWhileFatorial",
+            "request": "launch",
+            "mainClass": "lacoWhileFatorial",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "lacoWhileTabuada",
+            "request": "launch",
+            "mainClass": "lacoWhileTabuada",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "notaMatriz",
+            "request": "launch",
+            "mainClass": "notaMatriz",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "perguntaMatematica",
+            "request": "launch",
+            "mainClass": "perguntaMatematica",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "primeiroExercicio",
+            "request": "launch",
+            "mainClass": "primeiroExercicio",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "quartoExercicio",
+            "request": "launch",
+            "mainClass": "quartoExercicio",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "segundoExercicio",
+            "request": "launch",
+            "mainClass": "segundoExercicio",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "tabuadaComArray",
+            "request": "launch",
+            "mainClass": "tabuadaComArray",
+            "projectName": "EvlJava_ad8a950c"
+        },
+        {
+            "type": "java",
+            "name": "terceiroExercicio",
+            "request": "launch",
+            "mainClass": "terceiroExercicio",
+            "projectName": "EvlJava_ad8a950c"
+        }
+    ]
+}
