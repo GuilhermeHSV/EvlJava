@@ -13,10 +13,9 @@ public class random {
         int frequenciaFace6 = 0;
 
         for (int i = 0; i < qtdVezes; i++) {
-            // Gera um número aleatório entre 1 e 6 (inclusive)
+
             int dado = random.nextInt(6) + 1;
 
-            // Incrementa a frequência da face correspondente
             switch (dado) {
                 case 1:
                     frequenciaFace1++;
@@ -39,7 +38,6 @@ public class random {
             }
         }
 
-        // Calcula e imprime a porcentagem de vezes que cada face apareceu
         System.out.println("Porcentagem de vezes que cada face apareceu:");
         double total = (double) qtdVezes;
         System.out.println("Face 1: " + (frequenciaFace1 / total * 100) + "%");
