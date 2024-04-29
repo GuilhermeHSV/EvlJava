@@ -1,12 +1,14 @@
-package AlgoritmosProgramação.ADO3;/* Escreva um programa em Java que leia 6 números do teclado.
-                                   ao fim da execução o programa deve imprimir:
-                                   - soma de todos os valores digitados que foram positivos
-                                   - média de todos os valores digitados que foram positivos
-                                   */
+package AlgoritmosProgramação.ADO3;
+/* 
+Escreva um programa em Java que leia 6 números do teclado.
+ao fim da execução o programa deve imprimir:
+- soma de todos os valores digitados que foram positivos
+- média de todos os valores digitados que foram positivos
+*/
 
 import java.util.Scanner;
 
-public class exercicioNumeros {
+public class ExercicioNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
