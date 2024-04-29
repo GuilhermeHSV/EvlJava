@@ -2,7 +2,7 @@ package ProjetoIntegrador.ADO6;
 
 import java.util.Scanner;
 
-public class perguntaMatematica {
+public class PerguntaMatematica {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String escolha;
