@@ -8,7 +8,7 @@ package AlgoritmosProgramação.ADO4;
  */
 import java.util.Scanner;
 
-public class exercicio4 {
+public class Exercicio4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int i = 0, soma = 0, num, cont = 0;

@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class matrizIrregular {
+public class MatrizIrregular {
 
 	public static void main(String[] args) {
 

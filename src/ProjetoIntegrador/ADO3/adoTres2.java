@@ -2,7 +2,7 @@ package ProjetoIntegrador.ADO3;
 
 import java.util.Scanner;
 
-public class adoTres2 {
+public class AdoTres2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a, b, c;

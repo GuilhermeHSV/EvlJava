@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class mediaLaco {
+public class MediaLaco {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int escolha = 0;

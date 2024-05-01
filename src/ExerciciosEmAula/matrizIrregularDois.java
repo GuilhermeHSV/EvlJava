@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class matrizIrregularDois {
+public class MatrizIrregularDois {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Quantos Alunos você quer registrar a nota ?");

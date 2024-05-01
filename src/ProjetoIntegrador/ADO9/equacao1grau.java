@@ -3,7 +3,7 @@ package ProjetoIntegrador.ADO9;
 import java.util.Random;
 import java.util.Scanner;
 
-public class equacao1grau {
+public class Equacao1grau {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

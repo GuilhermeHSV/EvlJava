@@ -2,7 +2,7 @@ package ProjetoIntegrador.ADO4;
 
 import java.util.Scanner;
 
-public class adoQuatro1 {
+public class AdoQuatro1 {
     public static void main(String[] args) {
         int diasSemana;
 

@@ -2,7 +2,7 @@ package ProjetoIntegrador.ADO8;
 
 import java.util.Random;
 
-public class random {
+public class FuncaoRandom {
     public static void main(String[] args) {
         Random random = new Random();
 
@@ -15,9 +15,7 @@ public class random {
         int frequenciaFace6 = 0;
 
         for (int i = 0; i < qtdVezes; i++) {
-
             int dado = random.nextInt(6) + 1;
-
             switch (dado) {
                 case 1:
                     frequenciaFace1++;

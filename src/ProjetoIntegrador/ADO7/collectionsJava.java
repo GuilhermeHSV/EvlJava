@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class collectionsJava {
+public class CollectionsJava {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String escolha;

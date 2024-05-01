@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class adicionandoValoresMatriz {
+public class AdicionandoValoresMatriz {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Quantos valores deseja adicionar");

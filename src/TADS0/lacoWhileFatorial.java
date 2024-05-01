@@ -2,7 +2,7 @@ package TADS0;
 
 import java.util.Scanner;
 
-public class lacoWhileFatorial {
+public class LacoWhileFatorial {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

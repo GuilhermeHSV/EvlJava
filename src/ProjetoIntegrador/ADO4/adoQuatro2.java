@@ -2,7 +2,7 @@ package ProjetoIntegrador.ADO4;
 
 import java.util.Scanner;
 
-public class adoQuatro2 {
+public class AdoQuatro2 {
     public static void main(String[] args) {
         String escolha;
         Scanner entrada = new Scanner(System.in);

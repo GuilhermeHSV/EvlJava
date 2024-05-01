@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class notaMatriz {
+public class NotaMatriz {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double[][] notasAlunos = new double[3][4];

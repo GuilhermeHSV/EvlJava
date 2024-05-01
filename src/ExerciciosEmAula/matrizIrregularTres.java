@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class matrizIrregularTres {
+public class MatrizIrregularTres {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("*** Programa de média escolar! ***\n");

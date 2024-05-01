@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class alarme {
+public class Alarme {
     public static void main(String[] args) {
         java.util.Scanner scanner = new Scanner(System.in);
         System.out.println(" ");

@@ -8,7 +8,7 @@ ao fim da execução o programa deve imprimir:
 
 import java.util.Scanner;
 
-public class ExercicioNumeros {
+public class exercicioNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package ProjetoIntegrador.ADO2;
 
 import java.util.Scanner;
 
-public class terceiroExercicio {
+public class TerceiroExercicio {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

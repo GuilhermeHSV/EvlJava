@@ -2,7 +2,7 @@ package ExerciciosEmAula;
 
 import java.util.Scanner;
 
-public class primeiraFuncao {
+public class PrimeiraFuncao {
     public static int entradaDados() {
         System.out.println("*-* Entrada de Dados *-*");
         Scanner scanner = new Scanner(System.in);

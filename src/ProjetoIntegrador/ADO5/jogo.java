@@ -7,14 +7,16 @@ package ProjetoIntegrador.ADO5;
 
 import java.util.Scanner;
 
-public class jogo {
+public class Jogo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean estrutura = false;
         int escolha;
+
         do {
             System.out.println("1 - Instruções \n2 - Jogar \n3 - Créditos \n4 - Sair");
             escolha = scanner.nextInt();
+
             switch (escolha) {
                 case 1:
                     System.out.println("Clicou em Instruções!\n ");
